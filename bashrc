@@ -29,10 +29,6 @@ export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.77-1.b03.fc23.x86_64/
 export IDEA_JDK=/usr/java/jdk1.8.0_45
 export INTELLIJ=/home/ybronhei/Apps/ideaIU/idea-IU-129.713/bin
 export MAVEN_OPTS="-XX:MaxPermSize=128m"
-alias mydocs="vim ~/Documents/Work/useful"
-alias mystuff="cd ~/google-drive/Documents/work/"
-alias mywords="vim ~/google-drive/Documents/work/words"
-alias buga="./autogen.sh; make rpm NOSE_EXCLUDE=.*"
 export MY_OVIRT=~/Projects/ovirt-engine/
 export MY_VDSM=~/Projects/vdsm-upstream/
 export ENGINE_ETC=/usr/share/jboss-as-7.1.1.Final/standalone/configuration

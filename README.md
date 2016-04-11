@@ -1,4 +1,4 @@
-= Usage =
+# Usage
 Copy vimrc to ~/.vimrc
 
 Start vim and run
@@ -6,3 +6,6 @@ Start vim and run
 to install all the plugins
 
 restart vim
+
+# Author
+Yaniv Bronhaim
